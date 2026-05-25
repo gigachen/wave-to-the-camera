@@ -1,6 +1,6 @@
 # 📸 wave to the camera
 
-> **Category:** Forensic | **Difficulty:** Baby | **Points:** 500 (dynamic) | **Author:** gigachen
+> **Category:** Forensic | **Difficulty:** Baby | **Author:** gigachen
 
 ## Description
 
